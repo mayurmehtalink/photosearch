@@ -1,8 +1,10 @@
 # photosearch
-Image photo search angular 8 ---php 
+# Image photo search Angular 8 ---php 
 
 
 git clone https://github.com/mayurmehtalink/photosearch.git
+
+extract zip file
 
 cd photosearch/photosearch/photosearch
 
@@ -10,7 +12,7 @@ command : 1.npm install 2.ng serve
 
 start apache server for localhost access
 
-database file : photosearch\photosearch/fileupload.php 
+database file on phpmyadmin : photosearch\photosearch/fileupload.php 
 
 create database : photosearch
 
