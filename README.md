@@ -12,7 +12,7 @@ command : 1.npm install 2.ng serve
 
 start apache server for localhost access
 
-database file on phpmyadmin : photosearch\photosearch/fileupload.php 
+database file on phpmyadmin : photosearch\photosearch/fileupload.sql 
 
 create database : photosearch
 
